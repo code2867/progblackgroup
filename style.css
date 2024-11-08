@@ -2,13 +2,23 @@ html{
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
-table, th, td{
+table{
     border: 1px solid;
+    width:70%;
 }
+
+#centre_table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 img{
     width:500px;
     height:350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .container {
@@ -29,4 +39,8 @@ padding-left: 10px;
 
 .centre{
     text-align: center;
+}
+
+body{
+    margin:10px;   
 }
