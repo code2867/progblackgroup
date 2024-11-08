@@ -57,3 +57,10 @@ a:link, a:visited {
 body{
     margin:10px;   
 }
+
+.index_container{
+        position: relative;
+        width: 400px;
+        height: 200px;
+        border: 3px solid #73AD21;      
+}
