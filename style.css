@@ -38,7 +38,7 @@ a:link, a:visited {
   }
   
   a:hover, a:active {
-    background-color: red;
+    background-color: rgb(0, 21, 255);
   }
 .centre{
     text-align: center;
