@@ -6,7 +6,7 @@ table, th, td{
     border: 1px solid;
 }
 
-img{
+img {
     width:500px;
     height:350px;
 }
@@ -17,7 +17,7 @@ img{
     justify-content: center
 }
 
-img {
+.img1 {
 max-width: 100%;
 max-height:100%;
 }
@@ -26,3 +26,17 @@ max-height:100%;
 font-size: 20px;
 padding-left: 10px;
 }
+
+a:link, a:visited {
+    background-color: #36bbf4;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 20px;
+    display: inline-flexbox;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
