@@ -21,6 +21,11 @@ table{
     margin-right: auto;
 }
 
+.imgEila{
+    
+    display: block;
+}
+
 .container {
     display: flex;
     align-items: left;
