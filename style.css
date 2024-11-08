@@ -13,7 +13,7 @@ table{
 }
 
 
-img{
+.imgHannah{
     width:500px;
     height:350px;
     display: block;
@@ -44,7 +44,7 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     border-radius: 20px;
-    display: inline-flexbox;
+    display: inline-block;
   }
   
   a:hover, a:active {
